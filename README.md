@@ -39,6 +39,7 @@
 
 ## Используемые технологии
 - **Python**
+- 
 -*pandas*
 -*numpy*
 -*matplotlib*
