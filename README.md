@@ -38,9 +38,8 @@
 - Подробнее ознакомится с данными: https://www.kaggle.com/CooperUnion/cardataset. 
 
 ## Используемые технологии
-- Python
-Библиотеки:
--pandas
--numpy
--matplotlib
--seaborn
+- **Python**
+-*pandas*
+-*numpy*
+-*matplotlib*
+-*seaborn*
