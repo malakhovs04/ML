@@ -39,8 +39,7 @@
 
 ## Используемые технологии
 - **Python**
-- 
--*pandas*
--*numpy*
--*matplotlib*
--*seaborn*
+- *pandas*
+- *numpy*
+- *matplotlib*
+- *seaborn*
